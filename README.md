@@ -14,3 +14,8 @@ compression.
 ### Dependencies ###
 
 * jQuery 1.4 or greater.
+
+### Example ###
+
+I originally wrote this for my fathers website. You can see it being used here:
+http://www.cambridgeultrasonics.com/
